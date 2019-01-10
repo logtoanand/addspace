@@ -1,0 +1,14 @@
+{
+    "name": "@logtoanand/addspace",
+    "version": "2.0.0",
+    "description": "adds space",
+    "license": "MIT",
+    "repository": "https://github.com/logtoanand/addspace.git",
+    "main": "index.js",
+    "keywords": [
+        "space",
+        "npm",
+        "package",
+        "logtoanand"
+    ]
+}
